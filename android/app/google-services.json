@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914829948392",
+    "project_id": "firestore-learn-530ed",
+    "storage_bucket": "firestore-learn-530ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914829948392:android:42703d2f3a8d48f842605d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtIb_3B44ZK225stY-g6sOkcpfK1FLSmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
